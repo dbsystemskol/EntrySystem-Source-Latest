@@ -1,0 +1,199 @@
+D:\ABHIJIT_WORK\Entry System\EntrySystem\EntrySystem\bin\Debug\EntrySystem.exe.config
+D:\ABHIJIT_WORK\Entry System\EntrySystem\EntrySystem\bin\Debug\EntrySystem.exe
+D:\ABHIJIT_WORK\Entry System\EntrySystem\EntrySystem\bin\Debug\EntrySystem.pdb
+D:\ABHIJIT_WORK\Entry System\EntrySystem\EntrySystem\bin\Debug\EntrySystem.DataLayer.dll
+D:\ABHIJIT_WORK\Entry System\EntrySystem\EntrySystem\bin\Debug\EntrySystem.DataLayer.pdb
+D:\ABHIJIT_WORK\Entry System\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.csprojResolveAssemblyReference.cache
+D:\ABHIJIT_WORK\Entry System\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmLogin.resources
+D:\ABHIJIT_WORK\Entry System\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmUserMasterAdd.resources
+D:\ABHIJIT_WORK\Entry System\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.Forms.UserMasterList.resources
+D:\ABHIJIT_WORK\Entry System\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.MDIParent.resources
+D:\ABHIJIT_WORK\Entry System\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.Properties.Resources.resources
+D:\ABHIJIT_WORK\Entry System\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.csproj.GenerateResource.Cache
+D:\ABHIJIT_WORK\Entry System\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.exe
+D:\ABHIJIT_WORK\Entry System\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.pdb
+E:\Barun\EntrySystem\EntrySystem\bin\Debug\EntrySystem.exe.config
+E:\Barun\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.exe
+E:\Barun\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.pdb
+E:\Barun\EntrySystem\EntrySystem\bin\Debug\EntrySystem.exe
+E:\Barun\EntrySystem\EntrySystem\bin\Debug\EntrySystem.pdb
+E:\Barun\EntrySystem\EntrySystem\bin\Debug\EntrySystem.DataLayer.dll
+E:\Barun\EntrySystem\EntrySystem\bin\Debug\EntrySystem.DataLayer.pdb
+E:\Barun\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmLogin.resources
+E:\Barun\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmUserMasterAdd.resources
+E:\Barun\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.Forms.UserMasterList.resources
+E:\Barun\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.MDIParent.resources
+E:\Barun\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.Properties.Resources.resources
+E:\Barun\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.csproj.GenerateResource.Cache
+E:\Barun\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmStudent.resources
+E:\Barun\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmVerifiedList.resources
+E:\Barun\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmCreateStudentID.resources
+E:\Barun\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmStudentIdList.resources
+E:\Barun\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmVerifyStudent.resources
+E:\Barun\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.csprojResolveAssemblyReference.cache
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)\EntrySystem\bin\Debug\EntrySystem.exe.config
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.exe
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.pdb
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)\EntrySystem\bin\Debug\EntrySystem.exe
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)\EntrySystem\bin\Debug\EntrySystem.pdb
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)\EntrySystem\bin\Debug\EntrySystem.DataLayer.dll
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)\EntrySystem\bin\Debug\EntrySystem.DataLayer.pdb
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.csprojResolveAssemblyReference.cache
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmCreateStudentID.resources
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmLogin.resources
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmStudent.resources
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmStudentIdList.resources
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmUserMasterAdd.resources
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmVerifiedList.resources
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmVerifyStudent.resources
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.UserMasterList.resources
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.MDIParent.resources
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Properties.Resources.resources
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.csproj.GenerateResource.Cache
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)-Latest\EntrySystem\bin\Debug\EntrySystem.exe.config
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)-Latest\EntrySystem\obj\x86\Debug\EntrySystem.exe
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)-Latest\EntrySystem\obj\x86\Debug\EntrySystem.pdb
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)-Latest\EntrySystem\bin\Debug\EntrySystem.exe
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)-Latest\EntrySystem\bin\Debug\EntrySystem.pdb
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)-Latest\EntrySystem\bin\Debug\EntrySystem.DataLayer.pdb
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)-Latest\EntrySystem\obj\x86\Debug\EntrySystem.csprojResolveAssemblyReference.cache
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)-Latest\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmCreateStudentID.resources
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)-Latest\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmLogin.resources
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)-Latest\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmStudent.resources
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)-Latest\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmStudentIdList.resources
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)-Latest\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmUserMasterAdd.resources
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)-Latest\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmVerifiedList.resources
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)-Latest\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmVerifyStudent.resources
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)-Latest\EntrySystem\obj\x86\Debug\EntrySystem.Forms.UserMasterList.resources
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)-Latest\EntrySystem\obj\x86\Debug\EntrySystem.MDIParent.resources
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)-Latest\EntrySystem\obj\x86\Debug\EntrySystem.Properties.Resources.resources
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)-Latest\EntrySystem\obj\x86\Debug\EntrySystem.csproj.GenerateResource.Cache
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)-Latest\EntrySystem\bin\Debug\EntrySystem.DataLayer.dll
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)-Latest\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmEditVerifiedOrUnverified.resources
+D:\ABHIJIT_WORK\Entry System\EntrySystem(22-12-2016)-Latest\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmRptDateWiseActivity.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(27-12-2016)\EntrySystem\bin\Debug\EntrySystem.exe.config
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(27-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.exe
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(27-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.pdb
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(27-12-2016)\EntrySystem\bin\Debug\EntrySystem.exe
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(27-12-2016)\EntrySystem\bin\Debug\EntrySystem.pdb
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(27-12-2016)\EntrySystem\bin\Debug\EntrySystem.DataLayer.dll
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(27-12-2016)\EntrySystem\bin\Debug\EntrySystem.DataLayer.pdb
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(27-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.csprojResolveAssemblyReference.cache
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(27-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmCreateStudentID.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(27-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmEditVerifiedOrUnverified.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(27-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmLogin.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(27-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmRptDateWiseActivity.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(27-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmStudent.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(27-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmStudentIdList.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(27-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmUserMasterAdd.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(27-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmVerifiedList.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(27-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmVerifyStudent.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(27-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.UserMasterList.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(27-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.MDIParent.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(27-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Properties.Resources.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(27-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.csproj.GenerateResource.Cache
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(27-12-2016)_Modified\EntrySystem(27-12-2016)_Modified\EntrySystem\bin\Debug\EntrySystem.exe.config
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(27-12-2016)_Modified\EntrySystem(27-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.exe
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(27-12-2016)_Modified\EntrySystem(27-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.pdb
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(27-12-2016)_Modified\EntrySystem(27-12-2016)_Modified\EntrySystem\bin\Debug\EntrySystem.exe
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(27-12-2016)_Modified\EntrySystem(27-12-2016)_Modified\EntrySystem\bin\Debug\EntrySystem.pdb
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(27-12-2016)_Modified\EntrySystem(27-12-2016)_Modified\EntrySystem\bin\Debug\EntrySystem.DataLayer.dll
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(27-12-2016)_Modified\EntrySystem(27-12-2016)_Modified\EntrySystem\bin\Debug\EntrySystem.DataLayer.pdb
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(27-12-2016)_Modified\EntrySystem(27-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmCreateStudentID.resources
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(27-12-2016)_Modified\EntrySystem(27-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmEditVerifiedOrUnverified.resources
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(27-12-2016)_Modified\EntrySystem(27-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmLogin.resources
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(27-12-2016)_Modified\EntrySystem(27-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmRptDateWiseActivity.resources
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(27-12-2016)_Modified\EntrySystem(27-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmStudent.resources
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(27-12-2016)_Modified\EntrySystem(27-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmStudentIdList.resources
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(27-12-2016)_Modified\EntrySystem(27-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmUserMasterAdd.resources
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(27-12-2016)_Modified\EntrySystem(27-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmVerifiedList.resources
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(27-12-2016)_Modified\EntrySystem(27-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmVerifyStudent.resources
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(27-12-2016)_Modified\EntrySystem(27-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.UserMasterList.resources
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(27-12-2016)_Modified\EntrySystem(27-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.MDIParent.resources
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(27-12-2016)_Modified\EntrySystem(27-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Properties.Resources.resources
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(27-12-2016)_Modified\EntrySystem(27-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.csproj.GenerateResource.Cache
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(27-12-2016)_Modified\EntrySystem(27-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.csprojResolveAssemblyReference.cache
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\ErtrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem\bin\Debug\EntrySystem.exe.config
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\ErtrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.exe
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\ErtrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.pdb
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\ErtrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem\bin\Debug\EntrySystem.exe
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\ErtrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem\bin\Debug\EntrySystem.pdb
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\ErtrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem\bin\Debug\EntrySystem.DataLayer.dll
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\ErtrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem\bin\Debug\EntrySystem.DataLayer.pdb
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\ErtrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.csprojResolveAssemblyReference.cache
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\ErtrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmCreateStudentID.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\ErtrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmEditVerifiedOrUnverified.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\ErtrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmLogin.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\ErtrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmRptDateWiseActivity.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\ErtrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmStudent.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\ErtrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmStudentIdList.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\ErtrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmUserMasterAdd.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\ErtrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmVerifiedList.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\ErtrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmVerifyStudent.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\ErtrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.UserMasterList.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\ErtrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.MDIParent.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\ErtrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Properties.Resources.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\ErtrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.csproj.GenerateResource.Cache
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem(28-12-2016)_Modified\EntrySystem\bin\Debug\EntrySystem.exe.config
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.exe
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.pdb
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem(28-12-2016)_Modified\EntrySystem\bin\Debug\EntrySystem.exe
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem(28-12-2016)_Modified\EntrySystem\bin\Debug\EntrySystem.pdb
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem(28-12-2016)_Modified\EntrySystem\bin\Debug\EntrySystem.DataLayer.dll
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem(28-12-2016)_Modified\EntrySystem\bin\Debug\EntrySystem.DataLayer.pdb
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmCreateStudentID.resources
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmEditVerifiedOrUnverified.resources
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmLogin.resources
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmRptDateWiseActivity.resources
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmStudent.resources
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmStudentIdList.resources
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmUserMasterAdd.resources
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmVerifiedList.resources
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmVerifyStudent.resources
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Forms.UserMasterList.resources
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.MDIParent.resources
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.Properties.Resources.resources
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.csproj.GenerateResource.Cache
+E:\Barun\Avijit\Entry System(From Sir)\EntrySystem(28-12-2016)\EntrySystem(28-12-2016)_Modified\EntrySystem(28-12-2016)_Modified\EntrySystem\obj\x86\Debug\EntrySystem.csprojResolveAssemblyReference.cache
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(30-12-2016)\EntrySystem(30-12-2016)\EntrySystem\bin\Debug\EntrySystem.exe.config
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(30-12-2016)\EntrySystem(30-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.exe
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(30-12-2016)\EntrySystem(30-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.pdb
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(30-12-2016)\EntrySystem(30-12-2016)\EntrySystem\bin\Debug\EntrySystem.exe
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(30-12-2016)\EntrySystem(30-12-2016)\EntrySystem\bin\Debug\EntrySystem.pdb
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(30-12-2016)\EntrySystem(30-12-2016)\EntrySystem\bin\Debug\EntrySystem.DataLayer.dll
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(30-12-2016)\EntrySystem(30-12-2016)\EntrySystem\bin\Debug\EntrySystem.DataLayer.pdb
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(30-12-2016)\EntrySystem(30-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.csprojResolveAssemblyReference.cache
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(30-12-2016)\EntrySystem(30-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmCreateStudentID.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(30-12-2016)\EntrySystem(30-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmEditVerifiedOrUnverified.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(30-12-2016)\EntrySystem(30-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmLogin.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(30-12-2016)\EntrySystem(30-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmRptDateWiseActivity.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(30-12-2016)\EntrySystem(30-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmStudent.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(30-12-2016)\EntrySystem(30-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmStudentIdList.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(30-12-2016)\EntrySystem(30-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmUserMasterAdd.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(30-12-2016)\EntrySystem(30-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmVerifiedList.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(30-12-2016)\EntrySystem(30-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmVerifyStudent.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(30-12-2016)\EntrySystem(30-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Forms.UserMasterList.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(30-12-2016)\EntrySystem(30-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.MDIParent.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(30-12-2016)\EntrySystem(30-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.Properties.Resources.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem(30-12-2016)\EntrySystem(30-12-2016)\EntrySystem\obj\x86\Debug\EntrySystem.csproj.GenerateResource.Cache
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem-Latest\EntrySystem\EntrySystem\bin\Debug\EntrySystem.exe.config
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem-Latest\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.exe
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem-Latest\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.pdb
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem-Latest\EntrySystem\EntrySystem\bin\Debug\EntrySystem.exe
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem-Latest\EntrySystem\EntrySystem\bin\Debug\EntrySystem.pdb
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem-Latest\EntrySystem\EntrySystem\bin\Debug\EntrySystem.DataLayer.dll
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem-Latest\EntrySystem\EntrySystem\bin\Debug\EntrySystem.DataLayer.pdb
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem-Latest\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.csprojResolveAssemblyReference.cache
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem-Latest\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmCreateStudentID.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem-Latest\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmEditVerifiedOrUnverified.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem-Latest\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmLogin.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem-Latest\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmRptDateWiseActivity.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem-Latest\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmStudent.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem-Latest\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmStudentIdList.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem-Latest\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmUserMasterAdd.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem-Latest\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmVerifiedList.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem-Latest\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.Forms.frmVerifyStudent.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem-Latest\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.Forms.UserMasterList.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem-Latest\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.MDIParent.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem-Latest\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.Properties.Resources.resources
+D:\DB-Systems\Bijoyesh-Saha\DataEntry\EntrySystem-Latest\EntrySystem\EntrySystem\obj\x86\Debug\EntrySystem.csproj.GenerateResource.Cache

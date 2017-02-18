@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{33EB4BB7-7D57-4A6F-9AF9-9507231265A7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EntrySystem</RootNamespace>
+    <AssemblyName>EntrySystem</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntrySystem.DataLayer">
+      <HintPath>..\EntrySystem.DataLayer\bin\Debug\EntrySystem.DataLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\CommonClass.cs" />
+    <Compile Include="Class\ExcelUtilities.cs" />
+    <Compile Include="Class\ExcelUtlity.cs" />
+    <Compile Include="Class\MenuItems.cs" />
+    <Compile Include="Forms\frmCreateStudentID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmCreateStudentID.designer.cs">
+      <DependentUpon>frmCreateStudentID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmEditVerifiedOrUnverified.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmEditVerifiedOrUnverified.Designer.cs">
+      <DependentUpon>frmEditVerifiedOrUnverified.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLogin.designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmRptDateWiseActivity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmRptDateWiseActivity.Designer.cs">
+      <DependentUpon>frmRptDateWiseActivity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmStudent.Designer.cs">
+      <DependentUpon>frmStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmStudentIdList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmStudentIdList.designer.cs">
+      <DependentUpon>frmStudentIdList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmUserMasterAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmUserMasterAdd.Designer.cs">
+      <DependentUpon>frmUserMasterAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmVerifiedList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmVerifiedList.Designer.cs">
+      <DependentUpon>frmVerifiedList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmVerifyStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmVerifyStudent.Designer.cs">
+      <DependentUpon>frmVerifyStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserMasterList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserMasterList.Designer.cs">
+      <DependentUpon>UserMasterList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent.designer.cs">
+      <DependentUpon>MDIParent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\frmCreateStudentID.resx">
+      <DependentUpon>frmCreateStudentID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmEditVerifiedOrUnverified.resx">
+      <DependentUpon>frmEditVerifiedOrUnverified.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmRptDateWiseActivity.resx">
+      <DependentUpon>frmRptDateWiseActivity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmStudent.resx">
+      <DependentUpon>frmStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmStudentIdList.resx">
+      <DependentUpon>frmStudentIdList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmUserMasterAdd.resx">
+      <DependentUpon>frmUserMasterAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmVerifiedList.resx">
+      <DependentUpon>frmVerifiedList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmVerifyStudent.resx">
+      <DependentUpon>frmVerifyStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserMasterList.resx">
+      <DependentUpon>UserMasterList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent.resx">
+      <DependentUpon>MDIParent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="ReportSource\DateWiseActivity.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
